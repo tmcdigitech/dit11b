@@ -1,0 +1,21 @@
+baseURL = 'https://tmcdigitech.github.io/dit11/'
+languageCode = 'en-au'
+title = 'TMC - 11 Digital Tech'
+theme = ["hugo-geekdoc", "reveal-hugo"]
+
+pluralizeListTitles = false
+
+# Geekdoc required configuration
+pygmentsUseClasses = true
+# pygmentsCodeFences = true
+disablePathToLower = true
+
+publishDir = "docs"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[markup.goldmark.renderer]
+unsafe = true

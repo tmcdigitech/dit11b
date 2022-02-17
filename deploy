@@ -1,0 +1,2 @@
+#!/bin/sh
+hugo && rsync -avz --delete public/ dt:/home/public/pgz/
