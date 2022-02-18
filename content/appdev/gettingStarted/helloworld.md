@@ -1,5 +1,5 @@
 ---
-title: Using the EV3
+title: Hello World
 weight: 2
 ---
 *Taken from [pybricks.com](https://pybricks.com/ev3-micropython/startbrick.html)*
