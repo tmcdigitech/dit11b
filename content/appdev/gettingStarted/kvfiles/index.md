@@ -1,6 +1,6 @@
 ---
 title: 2. Kv Files
-weight: 3
+weight: 2
 ---
 *Taken from [prosperocoder.com](https://prosperocoder.com/posts/kivy/kivy-part-3-a-basic-kivy-app/)*
 
