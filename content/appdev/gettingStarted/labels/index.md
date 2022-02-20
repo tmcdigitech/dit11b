@@ -1,13 +1,11 @@
 ---
 title: 3. Label Properties
-weight: 3
+weight: 2
 ---
 *Taken from [prosperocoder.com](https://prosperocoder.com/posts/kivy/kivy-part-3-a-basic-kivy-app/)*
 
 
-Here’s the code again.
-
-The Python file:
+Our program contains just one widget, the label. This is all as far as presentation is concerned. We’ll move that part to a new file and leave the rest in the main.py file. So, after we remove the presentation part from the main.py, as well as the comments to make the file clear and transparent, this is what we’ll have:
 
 {{< highlight python "lineNos=table,lineNoStart=1" >}}
 # We're using Kivy, so we'll need the kivy module
@@ -47,9 +45,3 @@ As soon as you hit Enter, the file will open in a new tab. Type the following Ki
 <Label>:
     text: 'Hello World!'
 {{< /highlight>}}
-
-We’re going to talk about the Kivy language in more detail later on, for now it’s enough to say that this is all you need to take care of the label. The <Label>: part means we’re working on the Label class, and below we set the text property to a string of our choice.
-
-Now save the kv file and go back to the main.py. Run the program. This is what you should see:
-{{< figure src="image-33.png" title="" >}}
-
