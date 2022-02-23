@@ -89,7 +89,7 @@ The next step is to define the widgets that we want to add to that class. Each w
 You can see that the widgets that are inside of the MyGrid class are tabbed in once and the properties of those widgets are tabbed twice.
 
 ## Creating a Form With a .kv File
-The file below is the recreation of the form we made in tutorial 3, this time using a kv file. You can see that we have multiple grid layouts like before and that we add widgets to those layouts.
+The file below is a form asking the user for their name and email address using a kv file. You can see that we have multiple grid layouts and that we add widgets to those layouts.
 
 Notice that to make these widgets fill the entire screen we must change the size attribute. By making the size of the first grid layout root.width, root.height we are telling it to fill the size of the window dynamically.
 {{< highlight python  >}}
