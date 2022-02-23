@@ -11,6 +11,9 @@ To start using Kivy to develop apps, you will need to:
     ![Visual Studio Code logo](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
 
 3. Find and install **Python** (3.9):
+
+4. Open Visual Studio Code and install the Python Extension
+{{< figure src="Screenshot 2022-02-23 115053.png" title="" >}}
    
 
 
