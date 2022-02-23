@@ -17,7 +17,7 @@ Create a new virtual environment for your Kivy project. A virtual environment wi
 
 1. Open a Terminal window and create the virtual environment named .env in your current directory:
 {{< highlight terminal >}}
-python -3 -m venv .venv
+python -m venv .venv
 {{< /highlight >}}
 2. Update the security on this folder
 {{< highlight terminal >}}
