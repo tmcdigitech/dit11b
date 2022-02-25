@@ -1,6 +1,6 @@
 ---
 title: Float Layout
-weight: 2
+weight: 1
 ---
 
 # A FloatLayout with a Button
