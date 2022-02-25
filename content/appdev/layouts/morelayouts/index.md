@@ -290,6 +290,7 @@ Here’s the app when you run it:
 
 # StackLayout
 The next layout we’re going to talk about is the StackLayout. Let’s start with the Python code as usual:
+{{< highlight python  >}}
 import kivy
 from kivy.app import App
 
