@@ -1,6 +1,6 @@
 ---
 title: Embedding Layouts
-weight: 2
+weight: 4
 ---
 
 # FloatLayouts and RelativeLayouts inside GridLayout
