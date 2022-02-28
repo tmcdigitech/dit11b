@@ -117,7 +117,7 @@ Notice that to make these widgets fill the entire screen we must change the size
 
         Button:
             text:"Submit"
-            on_press: app.btn()
+            on_press: root.btn()
 {{< /highlight >}}
 
 ## Object Properties
