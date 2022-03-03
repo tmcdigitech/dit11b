@@ -32,6 +32,7 @@ if __name__ == '__main__':
 {{< /highlight >}}
 
 and the kv file:
+{{< highlight python "lineNos=table,lineNoStart=1" >}}
 # File name: helloworld.kv
 
 # Now we're using the CheckBox class
