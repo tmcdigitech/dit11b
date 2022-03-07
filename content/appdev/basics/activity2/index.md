@@ -13,7 +13,7 @@ We will start with a simple password generator and then we will refactor the cod
 
 ## Are you ready? 
 {{< hint info >}}
-Using your skills and knowledge from Activity 1 start a new Kivy project to create your password generator. The following tutorial will focus in on the code that will be used for your button. You will need to setup the GUI
+Using your skills and knowledge from Activity 1 start a new Kivy project to create your password generator. The following tutorial will focus in on the code that will be used for your button. **You will need to setup the GUI.**
 {{< /hint >}}
 ### A Simple Password Generator in Python
 We will start by generating a random string of 12 characters. To do that we will use the function random.choice() that returns a random character from a sequence.
@@ -26,9 +26,13 @@ Define a list of characters that we will use to generate the random password. In
 Create an empty string called password.
 Write a for loop that executes 12 iterations and that at every iteration selects a random character from the string characters and appends it to the password string.
 Print the password we have generated.
+Import Random at the top of your code
 {{< highlight python "lineNos=table,lineNoStart=1" >}}
 import random
+{{< /highlight >}}
 
+The following will need to be triggered by a button.
+{{< highlight python "lineNos=table,lineNoStart=1" >}}
 password_length = 12
 
 characters = "abcde12345"
@@ -271,7 +275,7 @@ We have covered a few Python core concepts:
 
 1. Watch the following video **Change Background Color And Text Color of Labels** to improve the look of your app.
 {{<youtube Gt0_BuJmJeI>}} {{<youtube e73K1DoTNio>}}
-2. Watch the following video **How To Use Images With Kivy** and add an image your app.
+2. Watch the following video **How To Use Images With Kivy** and add an image to your app.
 {{<youtube LMgLt70kAro>}}
 
 

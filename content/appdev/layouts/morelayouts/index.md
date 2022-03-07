@@ -288,6 +288,9 @@ And now let’s put the buttons in a column:
 Here’s the app when you run it:
 {{< figure src="image-102.png" title="" >}}
 
+## Watch more on Box Layouts
+{{<youtube ZFGAz6vZx1E>}}
+
 # StackLayout
 The next layout we’re going to talk about is the StackLayout. Let’s start with the Python code as usual:
 {{< highlight python  >}}
