@@ -2,7 +2,7 @@
 title: Activity 2
 weight: 4
 ---
-## Create a simple calculator
+# Create a simple calculator
 
 
 
@@ -76,7 +76,7 @@ My main classes name is MyApp. Therefore I will name my file my.kv.
 Using your skills and knowledge from Activity 1 start a new Kivy project to create your calculator.  **You will need to setup the GUI.**
 {{< /hint >}}
 
-{{< figure src="Screenshot 2022-03-07 120838.png" title="" >}}
+{{< figure src="Screenshot 2022-03-07 155754.png" title="" >}}
 
 
 
