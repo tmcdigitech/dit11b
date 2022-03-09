@@ -11,6 +11,17 @@ JSON is a lightweight data-interchange format.
 
 To extract information from a JSON file or a JSON response, we have to parse the data.
 ## Parse JSON in Python
+
+
+
+
+
+
+Convert JSON to a Python Dictionary
+It’s a good idea to convert JSON to a Python dictionary when you want to use the data in your code because this lets you access all of the supporting functions dictionary objects offer in Python. The next example uses json.loads() to convert the JSON from the examples above into a Python dictionary. It then uses a few of the built in functions of the dictionary object and prints the results to the console:
+
+
+
 We will use the following JSON in our example:
 
 {{< highlight python >}}
