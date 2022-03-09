@@ -17,7 +17,7 @@ In cases like the ones above, an API is the right solution. We’ll be querying 
 
 {{< figure src="iss.jpg" title="" >}}
 ## What is an API?
-An API, or Application Programming Interface, is a server that you can use to retrieve and send data to using code. APIs are most commonly used to retrieve data, and that will be the focus of this beginner tutorial.
+An API, or **Application Programming Interface**, is a server that you can use to retrieve and send data to using code. APIs are most commonly used to retrieve data, and that will be the focus of this beginner tutorial.
 
 When we want to receive data from an API, we need to make a request. Requests are used all over the web. For instance, when you visit any page, your web browser made a request to the web server, which responded with the contents of web page.
 {{< figure src="api-request.svg" title="" >}}
