@@ -205,4 +205,5 @@ Immediately we can understand the structure of the data more easily – we can s
 
 If we compare this to the documentation for the endpoint we’ll see that this matches the specified output for the endpoint.
 
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/708fb24d-a8c2-4b91-946e-7773ff13acb5?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 

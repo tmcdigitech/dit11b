@@ -164,3 +164,7 @@ https://weatherdbi.herokuapp.com/data/weather/{location}
 
 - What other data can you display from the API?
 - Now show it on your APP!
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/2e58e789-68eb-4183-8f83-05b56b1ff174?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/e1fb1daa-351d-464c-8c45-8c21b81c6ef0?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
