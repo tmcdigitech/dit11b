@@ -15,5 +15,5 @@ from kivy.uix.screenmanager import ScreenManager
 {{< /highlight >}}
 
 
-##How it fits together
+## How it fits together
 {{< figure src="Screenshot 2022-03-23 100746.png" title="" >}}
