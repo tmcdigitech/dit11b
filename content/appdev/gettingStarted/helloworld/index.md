@@ -32,6 +32,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 python -m pip install kivy
 {{< /highlight >}}
 
+If you get SSL errors use the following to install Kivy etc
+{{< highlight terminal >}}
+pip3 install --trusted-host pypi.org --trusted-host files.pythonhosted.org kivy
+{{< /highlight >}}
+
 ### Create a new file
 When you open your folder, you need a file to write the code to. This is going to be a regular Python file, so with the extension .py. You can name your file whatever you like, I’ll name mine main.py. Here’s how you can create the file: When you hover your mouse over the name of your folder, a menu with a couple icons will appear. The first icon is the one you should click to create a new file:
 
