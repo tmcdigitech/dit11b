@@ -7,6 +7,8 @@ weight: 9
 # Shooting - Basic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EwiUomzehKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Project Files
+[Shooting - Basic](FPSBasics.zip)
 
 ### Gun Script
 {{< highlight csharp "lineNos=table,lineNoStart=1" >}}
